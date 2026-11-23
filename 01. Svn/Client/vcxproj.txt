@@ -1,0 +1,6 @@
+<!-- UserInterface.vcxproj : ClCompile listesine ekle -->
+<ClCompile Include="..\..\source\UserInterface\PythonIkarusShop.cpp" />
+<ClCompile Include="..\..\source\UserInterface\PythonNetworkStreamIkarusShop.cpp" />
+
+<!-- ClInclude listesine ekle -->
+<ClInclude Include="..\..\source\UserInterface\PythonIkarusShop.h" />

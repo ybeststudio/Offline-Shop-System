@@ -1,0 +1,5 @@
+// game/src/Makefile  (CPPFILE listesine ekle)
+ikarus_shop.cpp ikarus_shop_manager.cpp ikarus_shop_safebox.cpp
+
+// db/src/Makefile  (CPPFILE listesine ekle)
+ClientManagerIkarusShop.cpp IkarusShopCache.cpp

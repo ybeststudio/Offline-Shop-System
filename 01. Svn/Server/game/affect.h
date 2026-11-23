@@ -1,0 +1,11 @@
+// Ara:
+	AFFECT_MOUNT_MELEE_MAGIC_BONUS = 920,
+#endif
+#endif
+
+// Altina ekle:
+#ifdef ENABLE_IKASHOP_RENEWAL
+#ifdef EXTEND_IKASHOP_ULTIMATE
+	AFFECT_SEARCH_SHOP_PREMIUM = 551,
+#endif
+#endif
