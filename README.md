@@ -2,7 +2,9 @@
 
 Çevrimdışı mağaza sistemi. Ikarus Shop Ultimate altyapısı üzerine yenilenmiş arayüz: mağaza yönetim paneli, mağaza kasası, teklifler, açık artırma, bildirimler, fiyat geçmişi ve mağazada arama penceresi.
 
-![Önizleme](preview.png)
+[![Video](https://img.youtube.com/vi/e806AnBmxKM/maxresdefault.jpg)](https://youtu.be/e806AnBmxKM)
+
+▶ **Tanıtım videosu:** [youtu.be/e806AnBmxKM](https://youtu.be/e806AnBmxKM)
 
 ---
 
